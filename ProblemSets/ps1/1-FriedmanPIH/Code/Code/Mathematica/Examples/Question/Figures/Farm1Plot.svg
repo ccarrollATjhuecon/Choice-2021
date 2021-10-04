@@ -1,0 +1,402 @@
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
+<g transform='translate(-74.000000, -13.000000)'>
+<g transform='matrix(1.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000)' clip-path='url(#cp1)'>
+<clipPath id='cp1'><polygon points='0,0 0,1e+06 535,1e+06 535,0 ' /></clipPath>
+<rect fill='rgb(100%,100%,100%)' stroke='none' x='-2.2518e+15' y='-2.2518e+15' width='4.5036e+15' height='4.5036e+15' />
+</g>
+<g transform='matrix(1.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000)' clip-path='url(#cp2)'>
+<clipPath id='cp2'><polygon points='0,0 0,1e+06 535,1e+06 535,0 ' /></clipPath>
+<path stroke='none' opacity='1' fill='rgb(100%,69.4087%,54.8989%)' fill-rule='evenodd' d='M 0,0 '/>
+</g>
+<g transform='matrix(1.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000)' clip-path='url(#cp3)'>
+<clipPath id='cp3'><polygon points='0,5 0,248 535,248 535,5 ' /></clipPath>
+<rect fill='rgb(100%,100%,100%)' stroke='none' x='66' y='5' width='459' height='243' />
+</g>
+<g transform='matrix(1.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000)' clip-path='url(#cp4)'>
+<clipPath id='cp4'><polygon points='83,13 83,230 433,230 433,13 ' /></clipPath>
+<polyline fill='none' stroke-opacity='1' stroke-width='1px' stroke='rgb(0%,0%,0%)' points='90,225.024 90.0877,224.97 90.1754,224.915 90.3507,224.807 90.7015,224.59 91.4029,224.157 92.8059,223.29 95.6118,221.556 101.696,217.796 107.376,214.285 112.945,210.843 118.987,207.109 124.625,203.625 130.735,199.848 136.733,196.141 142.329,192.683 148.396,188.933 154.061,185.432 159.614,182 165.639,178.277 171.26,174.802 177.354,171.036 183.337,167.339 188.916,163.89 194.967,160.151 200.615,156.66 206.735,152.877 212.744,149.164 218.35,145.699 224.427,141.943 230.102,138.436 235.665,134.998 241.7,131.268 247.331,127.788 253.435,124.015 259.428,120.312 265.017,116.857 271.078,113.111 276.736,109.614 282.283,106.186 288.302,102.467 293.918,98.9959 300.005,95.2335 305.69,91.7203 311.263,88.276 317.308,84.54 322.95,81.0531 329.063,77.2745 335.066,73.5647 340.665,70.1042 346.737,66.3519 352.405,62.8487 357.962,59.4144 363.99,55.6884 369.616,52.2116 369.714,52.151 369.812,52.0903 370.009,51.969 370.401,51.7265 371.186,51.2413 372.756,50.271 372.854,50.2104 372.952,50.1497 373.149,50.0284 373.541,49.7859 374.326,49.3007 374.424,49.2401 374.522,49.1794 374.718,49.0581 375.111,48.8156 375.209,48.7549 375.307,48.6943 375.503,48.573 375.602,48.5124 375.7,48.4517 375.798,48.3911 375.896,48.3304 ' />
+<polyline fill='none' stroke-opacity='1' stroke-width='1px' stroke='rgb(0%,0%,100%)' points='210.602,115.693 210.652,115.683 210.703,115.673 210.805,115.653 211.007,115.612 211.413,115.531 212.224,115.369 213.846,115.045 217.364,114.342 220.648,113.686 223.868,113.042 227.361,112.345 230.62,111.693 234.153,110.987 237.621,110.294 240.856,109.648 244.364,108.947 247.639,108.293 250.85,107.651 254.333,106.955 257.583,106.306 261.107,105.602 264.565,104.911 267.791,104.266 271.29,103.567 274.555,102.914 278.094,102.207 281.568,101.513 284.809,100.866 288.322,100.164 291.603,99.508 294.82,98.8654 298.309,98.1682 301.565,97.5176 305.094,96.8124 308.558,96.1201 311.79,95.4744 315.294,94.7742 318.566,94.1206 321.773,93.4798 325.252,92.7845 328.499,92.1357 332.019,91.4325 335.305,90.7758 338.527,90.1319 342.022,89.4336 345.284,88.7818 348.819,88.0755 352.29,87.3821 355.527,86.7352 359.037,86.0338 362.314,85.379 365.527,84.7371 369.013,84.0406 372.265,83.3907 372.322,83.3794 372.379,83.368 372.492,83.3454 372.719,83.3 373.173,83.2093 374.081,83.028 374.137,83.0166 374.194,83.0053 374.308,82.9826 374.534,82.9373 374.988,82.8466 375.045,82.8353 375.102,82.8239 375.215,82.8013 375.442,82.7559 375.499,82.7446 375.556,82.7332 375.669,82.7106 375.726,82.6992 375.783,82.6879 375.839,82.6766 375.896,82.6652 ' />
+<ellipse fill='rgb(0%,0%,100%)' opacity='1' stroke='none' cx='249' cy='95' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(0%,0%,100%)' opacity='1' stroke='none' cx='267' cy='104' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(0%,0%,100%)' opacity='1' stroke='none' cx='270' cy='98' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(0%,0%,100%)' opacity='1' stroke='none' cx='256' cy='132' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(0%,0%,100%)' opacity='1' stroke='none' cx='354' cy='72' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(0%,0%,100%)' opacity='1' stroke='none' cx='321' cy='95' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(0%,0%,100%)' opacity='1' stroke='none' cx='339' cy='88' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(0%,0%,100%)' opacity='1' stroke='none' cx='348' cy='114' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(0%,0%,100%)' opacity='1' stroke='none' cx='268' cy='99' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(0%,0%,100%)' opacity='1' stroke='none' cx='360' cy='69' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(0%,0%,100%)' opacity='1' stroke='none' cx='306' cy='102' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(0%,0%,100%)' opacity='1' stroke='none' cx='279' cy='112' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(0%,0%,100%)' opacity='1' stroke='none' cx='312' cy='94' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(0%,0%,100%)' opacity='1' stroke='none' cx='234' cy='112' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(0%,0%,100%)' opacity='1' stroke='none' cx='298' cy='69' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(0%,0%,100%)' opacity='1' stroke='none' cx='278' cy='112' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(0%,0%,100%)' opacity='1' stroke='none' cx='343' cy='97' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(0%,0%,100%)' opacity='1' stroke='none' cx='328' cy='92' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(0%,0%,100%)' opacity='1' stroke='none' cx='258' cy='108' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(0%,0%,100%)' opacity='1' stroke='none' cx='273' cy='101' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(0%,0%,100%)' opacity='1' stroke='none' cx='297' cy='106' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(0%,0%,100%)' opacity='1' stroke='none' cx='311' cy='72' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(0%,0%,100%)' opacity='1' stroke='none' cx='314' cy='87' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(0%,0%,100%)' opacity='1' stroke='none' cx='310' cy='100' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(0%,0%,100%)' opacity='1' stroke='none' cx='288' cy='124' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(0%,0%,100%)' opacity='1' stroke='none' cx='244' cy='105' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(0%,0%,100%)' opacity='1' stroke='none' cx='334' cy='99' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(0%,0%,100%)' opacity='1' stroke='none' cx='285' cy='102' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(0%,0%,100%)' opacity='1' stroke='none' cx='366' cy='83' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(0%,0%,100%)' opacity='1' stroke='none' cx='329' cy='73' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(0%,0%,100%)' opacity='1' stroke='none' cx='280' cy='93' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(0%,0%,100%)' opacity='1' stroke='none' cx='318' cy='80' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(0%,0%,100%)' opacity='1' stroke='none' cx='284' cy='107' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(0%,0%,100%)' opacity='1' stroke='none' cx='322' cy='94' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(0%,0%,100%)' opacity='1' stroke='none' cx='313' cy='88' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(0%,0%,100%)' opacity='1' stroke='none' cx='306' cy='90' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(0%,0%,100%)' opacity='1' stroke='none' cx='270' cy='106' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(0%,0%,100%)' opacity='1' stroke='none' cx='285' cy='105' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(0%,0%,100%)' opacity='1' stroke='none' cx='295' cy='88' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(0%,0%,100%)' opacity='1' stroke='none' cx='254' cy='96' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(0%,0%,100%)' opacity='1' stroke='none' cx='346' cy='90' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(0%,0%,100%)' opacity='1' stroke='none' cx='242' cy='91' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(0%,0%,100%)' opacity='1' stroke='none' cx='286' cy='95' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(0%,0%,100%)' opacity='1' stroke='none' cx='289' cy='108' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(0%,0%,100%)' opacity='1' stroke='none' cx='234' cy='109' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(0%,0%,100%)' opacity='1' stroke='none' cx='376' cy='82' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(0%,0%,100%)' opacity='1' stroke='none' cx='285' cy='115' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(0%,0%,100%)' opacity='1' stroke='none' cx='300' cy='99' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(0%,0%,100%)' opacity='1' stroke='none' cx='302' cy='81' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(0%,0%,100%)' opacity='1' stroke='none' cx='324' cy='99' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(0%,0%,100%)' opacity='1' stroke='none' cx='247' cy='121' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(0%,0%,100%)' opacity='1' stroke='none' cx='329' cy='96' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(0%,0%,100%)' opacity='1' stroke='none' cx='253' cy='111' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(0%,0%,100%)' opacity='1' stroke='none' cx='276' cy='104' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(0%,0%,100%)' opacity='1' stroke='none' cx='278' cy='116' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(0%,0%,100%)' opacity='1' stroke='none' cx='312' cy='92' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(0%,0%,100%)' opacity='1' stroke='none' cx='266' cy='105' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(0%,0%,100%)' opacity='1' stroke='none' cx='238' cy='98' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(0%,0%,100%)' opacity='1' stroke='none' cx='279' cy='87' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(0%,0%,100%)' opacity='1' stroke='none' cx='318' cy='93' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(0%,0%,100%)' opacity='1' stroke='none' cx='264' cy='97' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(0%,0%,100%)' opacity='1' stroke='none' cx='293' cy='104' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(0%,0%,100%)' opacity='1' stroke='none' cx='315' cy='122' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(0%,0%,100%)' opacity='1' stroke='none' cx='319' cy='97' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(0%,0%,100%)' opacity='1' stroke='none' cx='211' cy='110' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(0%,0%,100%)' opacity='1' stroke='none' cx='341' cy='83' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(0%,0%,100%)' opacity='1' stroke='none' cx='299' cy='100' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(0%,0%,100%)' opacity='1' stroke='none' cx='314' cy='83' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(0%,0%,100%)' opacity='1' stroke='none' cx='261' cy='103' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(0%,0%,100%)' opacity='1' stroke='none' cx='313' cy='105' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(0%,0%,100%)' opacity='1' stroke='none' cx='295' cy='96' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(0%,0%,100%)' opacity='1' stroke='none' cx='217' cy='119' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(0%,0%,100%)' opacity='1' stroke='none' cx='373' cy='77' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(0%,0%,100%)' opacity='1' stroke='none' cx='344' cy='97' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(0%,0%,100%)' opacity='1' stroke='none' cx='255' cy='109' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(0%,0%,100%)' opacity='1' stroke='none' cx='369' cy='64' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(0%,0%,100%)' opacity='1' stroke='none' cx='254' cy='94' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(0%,0%,100%)' opacity='1' stroke='none' cx='315' cy='102' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(0%,0%,100%)' opacity='1' stroke='none' cx='266' cy='115' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(0%,0%,100%)' opacity='1' stroke='none' cx='305' cy='94' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(0%,0%,100%)' opacity='1' stroke='none' cx='309' cy='107' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(0%,0%,100%)' opacity='1' stroke='none' cx='292' cy='102' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(0%,0%,100%)' opacity='1' stroke='none' cx='249' cy='104' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(0%,0%,100%)' opacity='1' stroke='none' cx='336' cy='111' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(0%,0%,100%)' opacity='1' stroke='none' cx='276' cy='108' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(0%,0%,100%)' opacity='1' stroke='none' cx='251' cy='126' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(0%,0%,100%)' opacity='1' stroke='none' cx='281' cy='100' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(0%,0%,100%)' opacity='1' stroke='none' cx='302' cy='82' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(0%,0%,100%)' opacity='1' stroke='none' cx='308' cy='95' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(0%,0%,100%)' opacity='1' stroke='none' cx='270' cy='110' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(0%,0%,100%)' opacity='1' stroke='none' cx='274' cy='101' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(0%,0%,100%)' opacity='1' stroke='none' cx='238' cy='112' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(0%,0%,100%)' opacity='1' stroke='none' cx='260' cy='131' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(0%,0%,100%)' opacity='1' stroke='none' cx='235' cy='106' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(0%,0%,100%)' opacity='1' stroke='none' cx='231' cy='111' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(0%,0%,100%)' opacity='1' stroke='none' cx='357' cy='105' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(0%,0%,100%)' opacity='1' stroke='none' cx='331' cy='102' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(0%,0%,100%)' opacity='1' stroke='none' cx='258' cy='108' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(0%,0%,100%)' opacity='1' stroke='none' cx='257' cy='104' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(0%,0%,100%)' opacity='1' stroke='none' cx='268' cy='85' rx='1.5' ry='1.5' />
+<polyline fill='none' stroke-opacity='1' stroke-width='1px' stroke='rgb(0%,0%,0%)' points='90,225.024 90.103,224.96 90.206,224.897 90.4121,224.769 90.8242,224.514 91.6483,224.005 93.2967,222.986 96.5933,220.949 103.741,216.531 110.415,212.406 116.959,208.362 124.057,203.976 130.681,199.882 137.86,195.445 144.907,191.089 151.482,187.026 158.61,182.62 165.266,178.507 171.79,174.475 178.869,170.1 185.474,166.018 192.633,161.593 199.662,157.249 206.217,153.198 213.327,148.804 219.963,144.702 227.154,140.258 234.213,135.895 240.799,131.825 247.94,127.412 254.607,123.291 261.143,119.252 268.233,114.87 274.85,110.78 282.022,106.348 289.062,101.997 295.629,97.938 302.751,93.5367 309.399,89.4281 315.915,85.4004 322.987,81.03 329.585,76.9523 336.737,72.5319 343.416,68.4042 349.964,64.3575 357.066,59.9679 363.695,55.8712 370.878,51.4316 377.93,47.073 384.509,43.0072 391.642,38.5985 398.302,34.4827 404.831,30.4477 411.914,26.07 418.524,21.985 418.639,21.9138 418.754,21.8425 418.985,21.7 419.446,21.415 420.368,20.845 422.213,19.705 422.328,19.6338 422.443,19.5625 422.674,19.42 423.135,19.135 424.057,18.565 424.173,18.4937 424.288,18.4225 424.519,18.28 424.98,17.995 425.095,17.9237 425.21,17.8525 425.441,17.71 425.556,17.6387 425.671,17.5675 425.787,17.4962 425.902,17.425 ' />
+<polyline fill='none' stroke-opacity='1' stroke-width='1px' stroke='rgb(100%,0%,0%)' points='177.161,111.89 177.237,111.882 177.313,111.874 177.466,111.858 177.771,111.826 178.381,111.761 179.602,111.633 182.043,111.376 187.336,110.819 192.279,110.298 197.124,109.788 202.38,109.235 207.286,108.719 212.602,108.159 217.821,107.61 222.689,107.097 227.968,106.541 232.896,106.023 237.728,105.514 242.969,104.962 247.861,104.447 253.163,103.889 258.367,103.341 263.222,102.83 268.487,102.276 273.401,101.759 278.725,101.198 283.953,100.648 288.83,100.134 294.118,99.5778 299.055,99.0581 303.895,98.5486 309.146,97.9958 314.046,97.48 319.356,96.921 324.57,96.3721 329.433,95.8602 334.706,95.305 339.629,94.7868 344.455,94.2788 349.692,93.7276 354.577,93.2132 359.874,92.6557 364.82,92.135 369.668,91.6246 374.928,91.071 379.836,90.5542 385.156,89.9943 390.378,89.4445 395.25,88.9317 400.532,88.3756 405.464,87.8564 410.298,87.3475 415.544,86.7953 420.438,86.2801 420.524,86.2711 420.609,86.2621 420.78,86.2441 421.121,86.2082 421.804,86.1363 423.17,85.9925 423.256,85.9835 423.341,85.9745 423.512,85.9566 423.853,85.9206 424.536,85.8487 424.621,85.8397 424.707,85.8307 424.878,85.8128 425.219,85.7768 425.304,85.7678 425.39,85.7588 425.561,85.7409 425.646,85.7319 425.731,85.7229 425.817,85.7139 425.902,85.7049 ' />
+<ellipse fill='rgb(100%,0%,0%)' opacity='1' stroke='none' cx='290' cy='110' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(100%,0%,0%)' opacity='1' stroke='none' cx='368' cy='106' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(100%,0%,0%)' opacity='1' stroke='none' cx='306' cy='96' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(100%,0%,0%)' opacity='1' stroke='none' cx='229' cy='77' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(100%,0%,0%)' opacity='1' stroke='none' cx='252' cy='118' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(100%,0%,0%)' opacity='1' stroke='none' cx='300' cy='85' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(100%,0%,0%)' opacity='1' stroke='none' cx='327' cy='95' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(100%,0%,0%)' opacity='1' stroke='none' cx='240' cy='110' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(100%,0%,0%)' opacity='1' stroke='none' cx='350' cy='99' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(100%,0%,0%)' opacity='1' stroke='none' cx='237' cy='105' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(100%,0%,0%)' opacity='1' stroke='none' cx='295' cy='81' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(100%,0%,0%)' opacity='1' stroke='none' cx='395' cy='127' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(100%,0%,0%)' opacity='1' stroke='none' cx='312' cy='93' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(100%,0%,0%)' opacity='1' stroke='none' cx='318' cy='87' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(100%,0%,0%)' opacity='1' stroke='none' cx='283' cy='107' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(100%,0%,0%)' opacity='1' stroke='none' cx='305' cy='111' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(100%,0%,0%)' opacity='1' stroke='none' cx='294' cy='97' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(100%,0%,0%)' opacity='1' stroke='none' cx='276' cy='121' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(100%,0%,0%)' opacity='1' stroke='none' cx='235' cy='109' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(100%,0%,0%)' opacity='1' stroke='none' cx='253' cy='117' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(100%,0%,0%)' opacity='1' stroke='none' cx='335' cy='85' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(100%,0%,0%)' opacity='1' stroke='none' cx='268' cy='93' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(100%,0%,0%)' opacity='1' stroke='none' cx='269' cy='82' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(100%,0%,0%)' opacity='1' stroke='none' cx='251' cy='83' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(100%,0%,0%)' opacity='1' stroke='none' cx='299' cy='103' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(100%,0%,0%)' opacity='1' stroke='none' cx='362' cy='83' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(100%,0%,0%)' opacity='1' stroke='none' cx='317' cy='97' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(100%,0%,0%)' opacity='1' stroke='none' cx='231' cy='119' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(100%,0%,0%)' opacity='1' stroke='none' cx='281' cy='83' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(100%,0%,0%)' opacity='1' stroke='none' cx='189' cy='102' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(100%,0%,0%)' opacity='1' stroke='none' cx='324' cy='91' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(100%,0%,0%)' opacity='1' stroke='none' cx='273' cy='111' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(100%,0%,0%)' opacity='1' stroke='none' cx='272' cy='116' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(100%,0%,0%)' opacity='1' stroke='none' cx='289' cy='106' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(100%,0%,0%)' opacity='1' stroke='none' cx='370' cy='72' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(100%,0%,0%)' opacity='1' stroke='none' cx='236' cy='94' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(100%,0%,0%)' opacity='1' stroke='none' cx='319' cy='112' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(100%,0%,0%)' opacity='1' stroke='none' cx='334' cy='79' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(100%,0%,0%)' opacity='1' stroke='none' cx='217' cy='110' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(100%,0%,0%)' opacity='1' stroke='none' cx='230' cy='88' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(100%,0%,0%)' opacity='1' stroke='none' cx='281' cy='106' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(100%,0%,0%)' opacity='1' stroke='none' cx='238' cy='105' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(100%,0%,0%)' opacity='1' stroke='none' cx='315' cy='99' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(100%,0%,0%)' opacity='1' stroke='none' cx='267' cy='118' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(100%,0%,0%)' opacity='1' stroke='none' cx='243' cy='100' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(100%,0%,0%)' opacity='1' stroke='none' cx='348' cy='85' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(100%,0%,0%)' opacity='1' stroke='none' cx='228' cy='105' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(100%,0%,0%)' opacity='1' stroke='none' cx='274' cy='103' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(100%,0%,0%)' opacity='1' stroke='none' cx='317' cy='107' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(100%,0%,0%)' opacity='1' stroke='none' cx='288' cy='93' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(100%,0%,0%)' opacity='1' stroke='none' cx='342' cy='94' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(100%,0%,0%)' opacity='1' stroke='none' cx='177' cy='122' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(100%,0%,0%)' opacity='1' stroke='none' cx='286' cy='94' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(100%,0%,0%)' opacity='1' stroke='none' cx='351' cy='102' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(100%,0%,0%)' opacity='1' stroke='none' cx='227' cy='115' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(100%,0%,0%)' opacity='1' stroke='none' cx='231' cy='113' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(100%,0%,0%)' opacity='1' stroke='none' cx='264' cy='110' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(100%,0%,0%)' opacity='1' stroke='none' cx='292' cy='100' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(100%,0%,0%)' opacity='1' stroke='none' cx='327' cy='101' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(100%,0%,0%)' opacity='1' stroke='none' cx='322' cy='97' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(100%,0%,0%)' opacity='1' stroke='none' cx='313' cy='88' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(100%,0%,0%)' opacity='1' stroke='none' cx='255' cy='88' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(100%,0%,0%)' opacity='1' stroke='none' cx='308' cy='115' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(100%,0%,0%)' opacity='1' stroke='none' cx='206' cy='113' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(100%,0%,0%)' opacity='1' stroke='none' cx='285' cy='110' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(100%,0%,0%)' opacity='1' stroke='none' cx='345' cy='91' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(100%,0%,0%)' opacity='1' stroke='none' cx='288' cy='97' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(100%,0%,0%)' opacity='1' stroke='none' cx='310' cy='103' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(100%,0%,0%)' opacity='1' stroke='none' cx='252' cy='102' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(100%,0%,0%)' opacity='1' stroke='none' cx='258' cy='112' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(100%,0%,0%)' opacity='1' stroke='none' cx='339' cy='97' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(100%,0%,0%)' opacity='1' stroke='none' cx='306' cy='96' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(100%,0%,0%)' opacity='1' stroke='none' cx='336' cy='83' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(100%,0%,0%)' opacity='1' stroke='none' cx='425' cy='90' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(100%,0%,0%)' opacity='1' stroke='none' cx='322' cy='113' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(100%,0%,0%)' opacity='1' stroke='none' cx='284' cy='99' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(100%,0%,0%)' opacity='1' stroke='none' cx='310' cy='97' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(100%,0%,0%)' opacity='1' stroke='none' cx='426' cy='88' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(100%,0%,0%)' opacity='1' stroke='none' cx='240' cy='96' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(100%,0%,0%)' opacity='1' stroke='none' cx='316' cy='105' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(100%,0%,0%)' opacity='1' stroke='none' cx='341' cy='91' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(100%,0%,0%)' opacity='1' stroke='none' cx='343' cy='98' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(100%,0%,0%)' opacity='1' stroke='none' cx='288' cy='94' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(100%,0%,0%)' opacity='1' stroke='none' cx='313' cy='87' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(100%,0%,0%)' opacity='1' stroke='none' cx='194' cy='129' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(100%,0%,0%)' opacity='1' stroke='none' cx='335' cy='83' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(100%,0%,0%)' opacity='1' stroke='none' cx='266' cy='101' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(100%,0%,0%)' opacity='1' stroke='none' cx='367' cy='101' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(100%,0%,0%)' opacity='1' stroke='none' cx='289' cy='113' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(100%,0%,0%)' opacity='1' stroke='none' cx='285' cy='90' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(100%,0%,0%)' opacity='1' stroke='none' cx='241' cy='124' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(100%,0%,0%)' opacity='1' stroke='none' cx='367' cy='86' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(100%,0%,0%)' opacity='1' stroke='none' cx='260' cy='110' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(100%,0%,0%)' opacity='1' stroke='none' cx='351' cy='85' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(100%,0%,0%)' opacity='1' stroke='none' cx='298' cy='81' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(100%,0%,0%)' opacity='1' stroke='none' cx='192' cy='110' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(100%,0%,0%)' opacity='1' stroke='none' cx='280' cy='98' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(100%,0%,0%)' opacity='1' stroke='none' cx='244' cy='97' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(100%,0%,0%)' opacity='1' stroke='none' cx='262' cy='96' rx='1.5' ry='1.5' />
+<ellipse fill='rgb(100%,0%,0%)' opacity='1' stroke='none' cx='186' cy='119' rx='1.5' ry='1.5' />
+</g>
+<g transform='matrix(1.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000)' clip-path='url(#cp5)'>
+<clipPath id='cp5'><polygon points='74,13 74,240 434,240 434,13 ' /></clipPath>
+<polyline fill='none' stroke-opacity='1' stroke-width='0.2px' stroke='rgb(0%,0%,0%)' points='90,225.024 90,221.024 ' />
+</g>
+<g transform='matrix(1.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000)' clip-path='url(#cp6)'>
+<clipPath id='cp6'><polygon points='74,13 74,240 434,240 434,13 ' /></clipPath>
+<polyline fill='none' stroke-opacity='1' stroke-width='0.2px' stroke='rgb(0%,0%,0%)' points='110.139,225.024 110.139,222.624 ' />
+</g>
+<g transform='matrix(1.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000)' clip-path='url(#cp7)'>
+<clipPath id='cp7'><polygon points='74,13 74,240 434,240 434,13 ' /></clipPath>
+<polyline fill='none' stroke-opacity='1' stroke-width='0.2px' stroke='rgb(0%,0%,0%)' points='130.278,225.024 130.278,222.624 ' />
+</g>
+<g transform='matrix(1.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000)' clip-path='url(#cp8)'>
+<clipPath id='cp8'><polygon points='74,13 74,240 434,240 434,13 ' /></clipPath>
+<polyline fill='none' stroke-opacity='1' stroke-width='0.2px' stroke='rgb(0%,0%,0%)' points='150.417,225.024 150.417,222.624 ' />
+</g>
+<g transform='matrix(1.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000)' clip-path='url(#cp9)'>
+<clipPath id='cp9'><polygon points='74,13 74,240 434,240 434,13 ' /></clipPath>
+<polyline fill='none' stroke-opacity='1' stroke-width='0.2px' stroke='rgb(0%,0%,0%)' points='170.555,225.024 170.555,222.624 ' />
+</g>
+<g transform='matrix(1.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000)' clip-path='url(#cp10)'>
+<clipPath id='cp10'><polygon points='74,13 74,240 434,240 434,13 ' /></clipPath>
+<polyline fill='none' stroke-opacity='1' stroke-width='0.2px' stroke='rgb(0%,0%,0%)' points='190.694,225.024 190.694,221.024 ' />
+</g>
+<g transform='matrix(1.000000, 0.000000, 0.000000, 1.000000, 184.194185, 228.023855)' clip-path='url(#cp11)'>
+<clipPath id='cp11'><polygon points='-1.19419,-1.02385 -1.19419,11.9761 13.8058,11.9761 13.8058,-1.02385 ' /></clipPath>
+<text x='0' y='9' font-family='Times' font-size='10px' fill='rgb(0%,0%,0%)'>0.5</text>
+</g>
+<g transform='matrix(1.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000)' clip-path='url(#cp12)'>
+<clipPath id='cp12'><polygon points='74,13 74,240 434,240 434,13 ' /></clipPath>
+<polyline fill='none' stroke-opacity='1' stroke-width='0.2px' stroke='rgb(0%,0%,0%)' points='210.833,225.024 210.833,222.624 ' />
+</g>
+<g transform='matrix(1.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000)' clip-path='url(#cp13)'>
+<clipPath id='cp13'><polygon points='74,13 74,240 434,240 434,13 ' /></clipPath>
+<polyline fill='none' stroke-opacity='1' stroke-width='0.2px' stroke='rgb(0%,0%,0%)' points='230.972,225.024 230.972,222.624 ' />
+</g>
+<g transform='matrix(1.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000)' clip-path='url(#cp14)'>
+<clipPath id='cp14'><polygon points='74,13 74,240 434,240 434,13 ' /></clipPath>
+<polyline fill='none' stroke-opacity='1' stroke-width='0.2px' stroke='rgb(0%,0%,0%)' points='251.111,225.024 251.111,222.624 ' />
+</g>
+<g transform='matrix(1.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000)' clip-path='url(#cp15)'>
+<clipPath id='cp15'><polygon points='74,13 74,240 434,240 434,13 ' /></clipPath>
+<polyline fill='none' stroke-opacity='1' stroke-width='0.2px' stroke='rgb(0%,0%,0%)' points='271.25,225.024 271.25,222.624 ' />
+</g>
+<g transform='matrix(1.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000)' clip-path='url(#cp16)'>
+<clipPath id='cp16'><polygon points='74,13 74,240 434,240 434,13 ' /></clipPath>
+<polyline fill='none' stroke-opacity='1' stroke-width='0.2px' stroke='rgb(0%,0%,0%)' points='291.388,225.024 291.388,221.024 ' />
+</g>
+<g transform='matrix(1.000000, 0.000000, 0.000000, 1.000000, 284.888371, 228.023855)' clip-path='url(#cp17)'>
+<clipPath id='cp17'><polygon points='-0.888371,-1.02385 -0.888371,11.9761 14.1116,11.9761 14.1116,-1.02385 ' /></clipPath>
+<text x='0' y='9' font-family='Times' font-size='10px' fill='rgb(0%,0%,0%)'>1.0</text>
+</g>
+<g transform='matrix(1.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000)' clip-path='url(#cp18)'>
+<clipPath id='cp18'><polygon points='74,13 74,240 434,240 434,13 ' /></clipPath>
+<polyline fill='none' stroke-opacity='1' stroke-width='0.2px' stroke='rgb(0%,0%,0%)' points='311.527,225.024 311.527,222.624 ' />
+</g>
+<g transform='matrix(1.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000)' clip-path='url(#cp19)'>
+<clipPath id='cp19'><polygon points='74,13 74,240 434,240 434,13 ' /></clipPath>
+<polyline fill='none' stroke-opacity='1' stroke-width='0.2px' stroke='rgb(0%,0%,0%)' points='331.666,225.024 331.666,222.624 ' />
+</g>
+<g transform='matrix(1.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000)' clip-path='url(#cp20)'>
+<clipPath id='cp20'><polygon points='74,13 74,240 434,240 434,13 ' /></clipPath>
+<polyline fill='none' stroke-opacity='1' stroke-width='0.2px' stroke='rgb(0%,0%,0%)' points='351.805,225.024 351.805,222.624 ' />
+</g>
+<g transform='matrix(1.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000)' clip-path='url(#cp21)'>
+<clipPath id='cp21'><polygon points='74,13 74,240 434,240 434,13 ' /></clipPath>
+<polyline fill='none' stroke-opacity='1' stroke-width='0.2px' stroke='rgb(0%,0%,0%)' points='371.944,225.024 371.944,222.624 ' />
+</g>
+<g transform='matrix(1.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000)' clip-path='url(#cp22)'>
+<clipPath id='cp22'><polygon points='74,13 74,240 434,240 434,13 ' /></clipPath>
+<polyline fill='none' stroke-opacity='1' stroke-width='0.2px' stroke='rgb(0%,0%,0%)' points='392.083,225.024 392.083,221.024 ' />
+</g>
+<g transform='matrix(1.000000, 0.000000, 0.000000, 1.000000, 385.582556, 228.023855)' clip-path='url(#cp23)'>
+<clipPath id='cp23'><polygon points='-0.582556,-1.02385 -0.582556,11.9761 14.4174,11.9761 14.4174,-1.02385 ' /></clipPath>
+<text x='0' y='9' font-family='Times' font-size='10px' fill='rgb(0%,0%,0%)'>1.5</text>
+</g>
+<g transform='matrix(1.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000)' clip-path='url(#cp24)'>
+<clipPath id='cp24'><polygon points='74,13 74,240 434,240 434,13 ' /></clipPath>
+<polyline fill='none' stroke-opacity='1' stroke-width='0.2px' stroke='rgb(0%,0%,0%)' points='412.221,225.024 412.221,222.624 ' />
+</g>
+<g transform='matrix(1.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000)' clip-path='url(#cp25)'>
+<clipPath id='cp25'><polygon points='74,13 74,240 434,240 434,13 ' /></clipPath>
+<polyline fill='none' stroke-opacity='1' stroke-width='0.2px' stroke='rgb(0%,0%,0%)' points='432.36,225.024 432.36,222.624 ' />
+</g>
+<g transform='matrix(1.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000)' clip-path='url(#cp26)'>
+<clipPath id='cp26'><polygon points='74,13 74,240 434,240 434,13 ' /></clipPath>
+<polyline fill='none' stroke-opacity='1' stroke-width='0.2px' stroke='rgb(0%,0%,0%)' points='83.002,225.024 432.9,225.024 ' />
+</g>
+<g transform='matrix(1.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000)' clip-path='url(#cp27)'>
+<clipPath id='cp27'><polygon points='74,13 74,240 434,240 434,13 ' /></clipPath>
+<polyline fill='none' stroke-opacity='1' stroke-width='0.2px' stroke='rgb(0%,0%,0%)' points='90,225.024 94,225.024 ' />
+</g>
+<g transform='matrix(1.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000)' clip-path='url(#cp28)'>
+<clipPath id='cp28'><polygon points='74,13 74,240 434,240 434,13 ' /></clipPath>
+<polyline fill='none' stroke-opacity='1' stroke-width='0.2px' stroke='rgb(0%,0%,0%)' points='90,212.577 92.4,212.577 ' />
+</g>
+<g transform='matrix(1.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000)' clip-path='url(#cp29)'>
+<clipPath id='cp29'><polygon points='74,13 74,240 434,240 434,13 ' /></clipPath>
+<polyline fill='none' stroke-opacity='1' stroke-width='0.2px' stroke='rgb(0%,0%,0%)' points='90,200.131 92.4,200.131 ' />
+</g>
+<g transform='matrix(1.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000)' clip-path='url(#cp30)'>
+<clipPath id='cp30'><polygon points='74,13 74,240 434,240 434,13 ' /></clipPath>
+<polyline fill='none' stroke-opacity='1' stroke-width='0.2px' stroke='rgb(0%,0%,0%)' points='90,187.684 92.4,187.684 ' />
+</g>
+<g transform='matrix(1.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000)' clip-path='url(#cp31)'>
+<clipPath id='cp31'><polygon points='74,13 74,240 434,240 434,13 ' /></clipPath>
+<polyline fill='none' stroke-opacity='1' stroke-width='0.2px' stroke='rgb(0%,0%,0%)' points='90,175.238 92.4,175.238 ' />
+</g>
+<g transform='matrix(1.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000)' clip-path='url(#cp32)'>
+<clipPath id='cp32'><polygon points='74,13 74,240 434,240 434,13 ' /></clipPath>
+<polyline fill='none' stroke-opacity='1' stroke-width='0.2px' stroke='rgb(0%,0%,0%)' points='90,162.791 94,162.791 ' />
+</g>
+<g transform='matrix(1.000000, 0.000000, 0.000000, 1.000000, 74.000000, 157.291424)' clip-path='url(#cp33)'>
+<clipPath id='cp33'><polygon points='0,-1.29142 0,11.7086 14,11.7086 14,-1.29142 ' /></clipPath>
+<text x='0' y='9' font-family='Times' font-size='10px' fill='rgb(0%,0%,0%)'>0.5</text>
+</g>
+<g transform='matrix(1.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000)' clip-path='url(#cp34)'>
+<clipPath id='cp34'><polygon points='74,13 74,240 434,240 434,13 ' /></clipPath>
+<polyline fill='none' stroke-opacity='1' stroke-width='0.2px' stroke='rgb(0%,0%,0%)' points='90,150.345 92.4,150.345 ' />
+</g>
+<g transform='matrix(1.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000)' clip-path='url(#cp35)'>
+<clipPath id='cp35'><polygon points='74,13 74,240 434,240 434,13 ' /></clipPath>
+<polyline fill='none' stroke-opacity='1' stroke-width='0.2px' stroke='rgb(0%,0%,0%)' points='90,137.898 92.4,137.898 ' />
+</g>
+<g transform='matrix(1.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000)' clip-path='url(#cp36)'>
+<clipPath id='cp36'><polygon points='74,13 74,240 434,240 434,13 ' /></clipPath>
+<polyline fill='none' stroke-opacity='1' stroke-width='0.2px' stroke='rgb(0%,0%,0%)' points='90,125.452 92.4,125.452 ' />
+</g>
+<g transform='matrix(1.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000)' clip-path='url(#cp37)'>
+<clipPath id='cp37'><polygon points='74,13 74,240 434,240 434,13 ' /></clipPath>
+<polyline fill='none' stroke-opacity='1' stroke-width='0.2px' stroke='rgb(0%,0%,0%)' points='90,113.005 92.4,113.005 ' />
+</g>
+<g transform='matrix(1.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000)' clip-path='url(#cp38)'>
+<clipPath id='cp38'><polygon points='74,13 74,240 434,240 434,13 ' /></clipPath>
+<polyline fill='none' stroke-opacity='1' stroke-width='0.2px' stroke='rgb(0%,0%,0%)' points='90,100.559 94,100.559 ' />
+</g>
+<g transform='matrix(1.000000, 0.000000, 0.000000, 1.000000, 74.000000, 95.058994)' clip-path='url(#cp39)'>
+<clipPath id='cp39'><polygon points='0,-1.05899 0,11.941 14,11.941 14,-1.05899 ' /></clipPath>
+<text x='0' y='9' font-family='Times' font-size='10px' fill='rgb(0%,0%,0%)'>1.0</text>
+</g>
+<g transform='matrix(1.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000)' clip-path='url(#cp40)'>
+<clipPath id='cp40'><polygon points='74,13 74,240 434,240 434,13 ' /></clipPath>
+<polyline fill='none' stroke-opacity='1' stroke-width='0.2px' stroke='rgb(0%,0%,0%)' points='90,88.1125 92.4,88.1125 ' />
+</g>
+<g transform='matrix(1.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000)' clip-path='url(#cp41)'>
+<clipPath id='cp41'><polygon points='74,13 74,240 434,240 434,13 ' /></clipPath>
+<polyline fill='none' stroke-opacity='1' stroke-width='0.2px' stroke='rgb(0%,0%,0%)' points='90,75.666 92.4,75.666 ' />
+</g>
+<g transform='matrix(1.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000)' clip-path='url(#cp42)'>
+<clipPath id='cp42'><polygon points='74,13 74,240 434,240 434,13 ' /></clipPath>
+<polyline fill='none' stroke-opacity='1' stroke-width='0.2px' stroke='rgb(0%,0%,0%)' points='90,63.2195 92.4,63.2195 ' />
+</g>
+<g transform='matrix(1.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000)' clip-path='url(#cp43)'>
+<clipPath id='cp43'><polygon points='74,13 74,240 434,240 434,13 ' /></clipPath>
+<polyline fill='none' stroke-opacity='1' stroke-width='0.2px' stroke='rgb(0%,0%,0%)' points='90,50.773 92.4,50.773 ' />
+</g>
+<g transform='matrix(1.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000)' clip-path='url(#cp44)'>
+<clipPath id='cp44'><polygon points='74,13 74,240 434,240 434,13 ' /></clipPath>
+<polyline fill='none' stroke-opacity='1' stroke-width='0.2px' stroke='rgb(0%,0%,0%)' points='90,38.3266 94,38.3266 ' />
+</g>
+<g transform='matrix(1.000000, 0.000000, 0.000000, 1.000000, 74.000000, 32.826564)' clip-path='url(#cp45)'>
+<clipPath id='cp45'><polygon points='0,-0.826564 0,12.1734 14,12.1734 14,-0.826564 ' /></clipPath>
+<text x='0' y='9' font-family='Times' font-size='10px' fill='rgb(0%,0%,0%)'>1.5</text>
+</g>
+<g transform='matrix(1.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000)' clip-path='url(#cp46)'>
+<clipPath id='cp46'><polygon points='74,13 74,240 434,240 434,13 ' /></clipPath>
+<polyline fill='none' stroke-opacity='1' stroke-width='0.2px' stroke='rgb(0%,0%,0%)' points='90,25.8801 92.4,25.8801 ' />
+</g>
+<g transform='matrix(1.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000)' clip-path='url(#cp47)'>
+<clipPath id='cp47'><polygon points='74,13 74,240 434,240 434,13 ' /></clipPath>
+<polyline fill='none' stroke-opacity='1' stroke-width='0.2px' stroke='rgb(0%,0%,0%)' points='90,13.4336 92.4,13.4336 ' />
+</g>
+<g transform='matrix(1.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000)' clip-path='url(#cp48)'>
+<clipPath id='cp48'><polygon points='74,13 74,240 434,240 434,13 ' /></clipPath>
+<polyline fill='none' stroke-opacity='1' stroke-width='0.2px' stroke='rgb(0%,0%,0%)' points='90,229.349 90,13.1 ' />
+</g>
+</g>
+<defs>
+</defs>
+</svg>
